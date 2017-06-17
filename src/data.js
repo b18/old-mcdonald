@@ -23,5 +23,10 @@ module.exports = {
         "Here is a lion sound...",
         "Here's what a lion says...",
         "This is a lion...",
-        "Here's a lion..."]
+        "Here's a lion..."],
+    "woodpecker":[
+        "Here is a woodpecker sound...",
+        "Here's what a woodpecker says...",
+        "This is a woodpecker...",
+        "Here's a woodpecker..."]
 };

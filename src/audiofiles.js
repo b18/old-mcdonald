@@ -26,5 +26,8 @@ module.exports = {
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00002.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00004.mp3",
-        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00005.mp3"]
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00005.mp3"],
+    "woodpecker":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/woodpecker/woodpecker_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/woodpecker/woodpecker_00002.mp3"]
 };

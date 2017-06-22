@@ -14,6 +14,16 @@ module.exports = {
         "Here's what a cat says...",
         "This is a cat...",
         "Here's a cat..."],
+    "chicken":[
+        "Here is a chicken sound...",
+        "Here's what a chicken says...",
+        "This is a chicken...",
+        "Here's a chicken..."],
+    "cow":[
+        "Here is a cow sound...",
+        "Here's what a cow says...",
+        "This is a cow...",
+        "Here's a cow..."],
     "dog":[
         "Here is a dog sound...",
         "Here's what a dog says...",

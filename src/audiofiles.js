@@ -15,6 +15,14 @@ module.exports = {
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00004.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00005.mp3"],
+    "cow":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00004.mp3"],
+    "chicken":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00002.mp3"],
     "dog":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00002.mp3",

@@ -98,6 +98,8 @@ module.exports = {
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/parrot/parrot_00004.mp3"],
     "rhino":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/rhino/rhino_00001.mp3"],
+    "rhinoceros":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/rhino/rhino_00001.mp3"],
     "seagull":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/seagull/seagull_00001.mp3"],
     "snake":[

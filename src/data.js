@@ -130,10 +130,15 @@ module.exports = {
         "This is a parrot...",
         "Here's a parrot..."],
     "rhino":[
-        "Here is a rhino sound...",
-        "Here's what a rhino says...",
-        "This is a rhino...",
-        "Here's a rhino..."],
+        "Here is a rhinoceros sound...",
+        "Here's what a rhinoceros says...",
+        "This is a rhinoceros...",
+        "Here's a rhinoceros..."],
+    "rhinoceros":[
+        "Here is a rhinoceros sound...",
+        "Here's what a rhinoceros says...",
+        "This is a rhinoceros...",
+        "Here's a rhinoceros..."],
     "seagull":[
         "Here is a seagull sound...",
         "Here's what a seagull says...",

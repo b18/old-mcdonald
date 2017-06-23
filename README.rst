@@ -1,6 +1,3 @@
-An Alexa skill that teaches kids about animals. Still in early development.
-
-
 ==================
 Old McDonald Alexa Skill
 ==================

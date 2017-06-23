@@ -25,7 +25,8 @@ var AlexaSkill = require('./AlexaSkill'),
 
 var APP_ID = 'amzn1.ask.skill.7a800506-acc8-4a93-bb3c-57aae42829ed'; //replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
 
-var categories  = "cat, chicken, cow, dog, lion, woodpecker";  //List of all animals
+var categories  = "bee, bird, canary, cardinal, cat, chicken, cougar, cow, crow, dog, elephant, finch, goat, hawk, lion, lorie, macaw, meadowlark, mockingbird, \
+				   monkey, mosquito, nightingale, owl, parrot, rhino, seagull, snake, tiger, vulture, woodpecker";  //List of all animals
 
 /**
  * AnimalHelper is a child of AlexaSkill.

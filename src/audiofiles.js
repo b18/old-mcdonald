@@ -9,32 +9,107 @@
 */
 
 module.exports = { 
+    "bee":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bee/bee_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bee/bee_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bee/bee_00003.mp3"],
+    "bird":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bird/bird_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bird/bird_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bird/bird_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/bird/bird_00004.mp3"],
+    "canary":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/canary/canary_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/canary/canary_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/canary/canary_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/canary/canary_00004.mp3"],
+    "cardinal":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cardinal/cardinal_00001.mp3"],
     "cat":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00002.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00004.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cat/cat_00005.mp3"],
+    "chicken":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00002.mp3"],
+    "cougar":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cougar/cougar_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cougar/cougar_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cougar/cougar_00003.mp3"],
     "cow":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00002.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/cow/cow_00004.mp3"],
-    "chicken":[
-        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00001.mp3",
-        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/chicken/chicken_00002.mp3"],
+    "crow":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/crow/crow_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/crow/crow_00002.mp3"],
     "dog":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00002.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00004.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/dog/dog_00005.mp3"],
+    "elephant":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/elephant/elephant_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/elephant/elephant_00002.mp3"],
+    "finch":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/finch/finch_00001.mp3"],
+    "goat":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/goat/goat_00001.mp3"],
+    "hawk":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/hawk/hawk_00001.mp3"],
     "lion":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00002.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00003.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00004.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lion/lion_00005.mp3"],
+    "lorie":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lorie/lorie_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lorie/lorie_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lorie/lorie_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/lorie/lorie_00004.mp3"],
+    "macaw":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/macaw/macaw_00001.mp3"],
+    "meadowlark":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/meadowlark/meadowlark_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/meadowlark/meadowlark_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/meadowlark/meadowlark_00003.mp3"],
+    "mockingbird":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/mockingbird/mockingbird_00001.mp3"],
+    "monkey":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/monkey/monkey_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/monkey/monkey_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/monkey/monkey_00003.mp3"],
+    "mosquito":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/mosquito/mosquito_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/mosquito/mosquito_00002.mp3"],
+    "nightingale":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/nightingale/nightingale_00001.mp3"],
+    "owl":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/owl/owl_00001.mp3"],
+    "parrot":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/parrot/parrot_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/parrot/parrot_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/parrot/parrot_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/parrot/parrot_00004.mp3"],
+    "rhino":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/rhino/rhino_00001.mp3"],
+    "seagull":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/seagull/seagull_00001.mp3"],
+    "snake":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/snake/snake_00001.mp3"],
+    "tiger":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/tiger/tiger_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/tiger/tiger_00002.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/tiger/tiger_00003.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/tiger/tiger_00004.mp3"],
+    "vulture":[
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/vulture/vulture_00001.mp3",
+        "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/vulture/vulture_00002.mp3"],
     "woodpecker":[
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/woodpecker/woodpecker_00001.mp3",
         "https://s3.amazonaws.com/alexa-old-mcdonald/sounds/woodpecker/woodpecker_00002.mp3"]
